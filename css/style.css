@@ -964,4 +964,7 @@
      .navbar nav.show-xs-menu {
          top: 54px;
     }
+     .search-inp input {
+         width: 100px;
+    }
 }
